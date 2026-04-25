@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "label": "Home",
+        "route": "Home"
+    },
+    {
+        "id": 2,
+        "label": "Discover",
+        "subItems": [
+            {
+                "id": 3,
+                "label": "About",
+                "route": "About"
+            },
+            {
+                "id": 4,
+                "label": "Contracted Hotels",
+                "route": "Contracted Hotels"
+            },
+            {
+                "id": 5,
+                "label": "Doctors",
+                "route": "Doctors"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "label": "Hair Transplant Procedures",
+        "subItems": [
+            {
+                "id": 7,
+                "label": "FUE Hair Transplant",
+                "route": "ContentScreen"
+            },
+            {
+                "id": 8,
+                "label": "DHI Hair Transplant",
+                "route": "ContentScreen"
+            },
+            {
+                "id": 9,
+                "label": "Sapphire FUE Hair Transplant",
+                "route": "ContentScreen"
+            },
+            {
+                "id": 10,
+                "label": "Robotic Hair Transplant",
+                "route": "ContentScreen"
+            },
+            {
+                "id": 11,
+                "label": "Afro Hair Transplant",
+                "route": "ContentScreen"
+            },
+            {
+                "id": 12,
+                "label": "Eyebrow Transplant Turkey",
+                "route": "ContentScreen"
+            },
+            {
+                "id": 13,
+                "label": "Hair Mesotherapy",
+                "route": "ContentScreen"
+            },
+            {
+                "id": 14,
+                "label": "Beard Transplant Turkey",
+                "route": "ContentScreen"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "label": "Before-After",
+        "subItems": [
+            {
+                "id": 16,
+                "label": "Hair Transplant",
+                "route": "HairTransplant"
+            },
+            {
+                "id": 17,
+                "label": "Dental Treatment",
+                "route": "DentalTreatment"
+            },
+            {
+                "id": 18,
+                "label": "Rhinoplasty",
+                "route": "aesthetic"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "label": "Testimonials",
+        "route": "Testimonials"
+    },
+    {
+        "id": 20,
+        "label": "Our Branches",
+        "route": "OurBranches"
+    },
+    {
+        "id": 21,
+        "label": "Contact Us",
+        "route": "contactScreen"
+    },
+    {
+        "id": 22,
+        "label": "Asli Tarcan TV",
+        "route": "AsliTarcanTV"
+    }
+]

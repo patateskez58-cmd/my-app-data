@@ -1,0 +1,44 @@
+[
+    {
+        "IMG": "https://www.aslitarcanclinic.com/language/en/wp-content/uploads/umit.png",
+        "NAME": "Ümit Taşkın",
+        "POSITION": "Prof. Dr.",
+        "EXPERT": "Otolaryngologist (ENT)"
+    },
+    {
+        "IMG": "https://www.aslitarcanclinic.com/language/en/wp-content/uploads/bulent.png",
+        "NAME": "Bülent Çatıkkaş",
+        "POSITION": "Dr.",
+        "EXPERT": "MEDICAL AESTHETIC"
+    },
+    {
+        "IMG": "https://www.aslitarcanclinic.com/language/en/wp-content/uploads/huseyin.png",
+        "NAME": "H. Ertuğrul Asad",
+        "POSITION": "Dr.",
+        "EXPERT": "MEDICAL AESTHETIC"
+    },
+    {
+        "IMG": "https://www.aslitarcanclinic.com/language/en/wp-content/uploads/mehmet.png",
+        "NAME": "Mehmet Tetikoğlu",
+        "POSITION": "Dr.",
+        "EXPERT": "ophthalmologist"
+    },
+    {
+        "IMG": "https://www.aslitarcanclinic.com/language/en/wp-content/uploads/ummuhan.png",
+        "NAME": "Ümmühan Kiremitçi",
+        "POSITION": "Dr.",
+        "EXPERT": "Dermatologist"
+    },
+    {
+        "IMG": "https://www.aslitarcanclinic.com/language/en/wp-content/uploads/erhan.png",
+        "NAME": "Erkan Karadağ",
+        "POSITION": "Dr.",
+        "EXPERT": "Dentist"
+    },
+    {
+        "IMG": "https://www.aslitarcanclinic.com/language/en/wp-content/uploads/arzu.png",
+        "NAME": "Ferhan Arzu Güvenç",
+        "POSITION": "Dr.",
+        "EXPERT": "Dentist"
+    }
+]

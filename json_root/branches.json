@@ -1,0 +1,18 @@
+{
+    "branches": [
+        {
+            "id": "1",
+            "name": "Aslı Tarcan Clinic - Istanbul",
+            "location": "Istanbul/Cevizlibağ",
+            "image": "https://lh3.googleusercontent.com/p/AF1QipMDEs4GAKQD7_zVNjKnrMcfbS_q5wicP85T_rGx=s680-w680-h510-rw",
+            "route": "Cevizlibag"
+        },
+        {
+            "id": "2",
+            "name": "Aslı Tarcan Clinic - Vadi Istanbul",
+            "location": "Istanbul/Vadi Istanbul",
+            "image": "https://lh3.googleusercontent.com/p/AF1QipNTzLmr3BGL_---rlO51-EOVsg5JcY8iJ2U-IlF=s680-w680-h510",
+            "route": "Vadi"
+        }
+    ]
+}

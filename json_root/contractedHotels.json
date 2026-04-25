@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Ramada Plaza by Wyndham Istanbul Tekstilkent",
+        "image": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_534,q_40,w_800/hotelier-images/7a/f7/56928ae94bf3de576737460ab689cbe748dcbcd3ddc3f6ad3afaaecf2b99.jpeg",
+        "stars": 5
+    },
+    {
+        "name": "Uranus Istanbul Topkapi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNRxqF2EHXZbMZJX7Gxkjc5lXTAku_uTK_Cmh7r=s680-w680-h510",
+        "stars": 5
+    },
+    {
+        "name": "Tryp By Wyndham Istanbul Topkapı",
+        "image": "https://tryp-by-wyndham-istanbul-topkapi-tr.bookeder.com/data/Photos/OriginalPhoto/12846/1284633/1284633973/Tryp-By-Wyndham-Istanbul-Topkapi-Hotel-Exterior.JPEG",
+        "stars": 4
+    },
+    {
+        "name": "Ramada by Wyndham Istanbul Alibeykoy",
+        "image": "https://www.wyndhamhotels.com/content/dam/property-images/en-us/ra/tr/others/istanbul/49550/49550_exterior_view_1.jpg?crop=2997:1998;*,*&downsize=720:*",
+        "stars": 4
+    }
+]
