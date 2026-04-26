@@ -1,62 +1,63 @@
-[
+﻿[
     {
         "id": "1",
-        "smallUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun1.jpg",
-        "largeUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun1_large.jpg",
+        "smallUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun1.jpg",
+        "largeUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun1_large.jpg",
         "caption": "Rhinoplasty"
     },
     {
         "id": "2",
-        "smallUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun2.jpg",
-        "largeUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun2_large.jpg",
+        "smallUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun2.jpg",
+        "largeUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun2_large.jpg",
         "caption": "Ethnic Rhinoplasty"
     },
     {
         "id": "3",
-        "smallUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun3.jpg",
-        "largeUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun3_large.jpg",
+        "smallUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun3.jpg",
+        "largeUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun3_large.jpg",
         "caption": "Rhinoplasty"
     },
     {
         "id": "4",
-        "smallUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun4.jpg",
-        "largeUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun4_large.jpg",
+        "smallUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun4.jpg",
+        "largeUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun4_large.jpg",
         "caption": "Rhinoplasty"
     },
     {
         "id": "5",
-        "smallUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun5.jpg",
-        "largeUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun5_large.jpg",
+        "smallUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun5.jpg",
+        "largeUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun5_large.jpg",
         "caption": "Rhinoplasty"
     },
     {
         "id": "6",
-        "smallUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun6.jpg",
-        "largeUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun6_large.jpg",
+        "smallUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun6.jpg",
+        "largeUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun6_large.jpg",
         "caption": "Ethnic Rhinoplasty"
     },
     {
         "id": "7",
-        "smallUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun7.jpg",
-        "largeUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun7_large.jpg",
+        "smallUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun7.jpg",
+        "largeUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun7_large.jpg",
         "caption": "Asian Rhinoplasty"
     },
     {
         "id": "8",
-        "smallUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun8.jpg",
-        "largeUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun8_large.jpg",
+        "smallUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun8.jpg",
+        "largeUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun8_large.jpg",
         "caption": "Asian Rhinoplasty"
     },
     {
         "id": "9",
-        "smallUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun9.jpg",
-        "largeUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun9_large.jpg",
+        "smallUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun9.jpg",
+        "largeUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun9_large.jpg",
         "caption": "Ethnic Rhinoplasty"
     },
     {
         "id": "10",
-        "smallUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun10.jpg",
-        "largeUri": "https://www.customerinterest.com/json_root/img/rhinoplasty/burun10_large.jpg",
+        "smallUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun10.jpg",
+        "largeUri": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/rhinoplasty/burun10_large.jpg",
         "caption": "Ethnic Rhinoplasty"
     }
 ]
+

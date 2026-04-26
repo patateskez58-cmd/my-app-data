@@ -1,4 +1,4 @@
-{
+﻿{
     "id": 8,
     "text1": "Hair loss is not just a cosmetic problem, rather it leaves individuals less confident, thus impacting everyday private and professional life.\n\nSince genetic hair loss does not have any other solution, therefore individuals move towards hair transplant. Patients considering hair transplants face overwhelming choices regarding procedures – DHI is one of these options.\n\nDHI (Direct Hair Implantation) in Turkey is the ultimate solution for hair loss. This minimally invasive technique offers natural-looking results, transforming your appearance and confidence.\n\nAt <color>Aslı Tarcan</color>, you can experience expert care, state-of-the-art facilities, and competitive pricing. Our highly professional team is capable of performing the DHI hair transplant which helps you regain your confidence and true self.\n\nIn this article, we will cover DHI procedure, costs, success rates and everything needed to make an informed decision.",
     "title1": "What is DHI Hair Transplant?",
@@ -23,23 +23,24 @@
     "text12": "<strong>Does hair grow back after DHI?</strong>\nIt largely depends on the overall health of the patient, quality and quantity of follicles. However, if everything goes as planned, DHI produces one of the best hair growth results.\n\n<strong>What is the most advanced hair transplant method?</strong>\nDHI is the most advanced hair transplant method and it produces the highest success rate. It is also the most precise and offers quickest recovery.\n\n<strong>How long till I start to see my hair grow after DHI?</strong>\nEvery client has a different experience. However, on average you will start seeing your hair grow between 6–12 months of the DHI process.\n\n<strong>Does DHI damage existing hair?</strong>\nAlthough DHI is a non-invasive procedure, it can still involve some amount of damage to surrounding hairs due to shock loss. However, it has the best hair transplant procedure when it comes to supporting existing hair.\n\n<strong>How long does it take for hair grafts to secure?</strong>\nGenerally, the first 24 hours post-op is the most critical period for grafts. However, it takes around 10 days for the transplanted hair grafts to be fully secure.\n\n<strong>How does the DHI Choi pen work?</strong>\nThe DHI Choi implanter pen enables precise hair follicle extraction with zero incision. Since, the extracted follicle is simultaneously loaded on the pen, thus allowing direct implantation.",
     "sliderImages": [
         {
-            "url": "https://www.customerinterest.com/json_root/img/content_photo/DHI_Hair_Transplant.jpg "
+            "url": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/content_photo/DHI_Hair_Transplant.jpg"
         },
         {
-            "url": "https://www.customerinterest.com/json_root/img/content_photo/DHI_Hair_Transplant_2.jpg"
+            "url": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/content_photo/DHI_Hair_Transplant_2.jpg"
         },
         {
-            "url": "https://www.customerinterest.com/json_root/img/content_photo/DHI_Hair_Transplant_3.jpg"
+            "url": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/content_photo/DHI_Hair_Transplant_3.jpg"
         },
         {
-            "url": "https://www.customerinterest.com/json_root/img/content_photo/DHI_Hair_Transplant_4.jpg"
+            "url": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/content_photo/DHI_Hair_Transplant_4.jpg"
         }
     ],
     "youtubeVideo": "https://www.youtube.com/embed/nubtEy4X6MI",
-    "backgroundImage": "https://www.customerinterest.com/json_root/img/content_photo/dhi_siyah_kutu.jpg",
+    "backgroundImage": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/Webp/dhi_siyah_kutu.jpg",
     "headerText": "Hair Transplant AND Treatment",
     "mainText": "DHI Hair Transplant",
     "buttonText": "Read More",
     "arrowText": "→",
     "navigationScreen": "ContentScreen"
 }
+

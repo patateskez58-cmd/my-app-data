@@ -1,4 +1,4 @@
-{
+﻿{
     "id": 10,
     "text1": "Experience the cutting-edge of hair restoration technology with robotic hair transplant in Turkey. As a leading destination for hair transplantation, Turkey offers unparalleled expertise, affordability, and success rates. Robotic hair transplant is becoming popular globally due to its precision and quality. It also works faster thus minimizing procedure time without compromising on results. At <color>Asli Tarcan</color>, we provide robotic-assisted procedures like FUE, FUT, and DHI, achieving natural-looking results with minimal downtime. Discover the benefits of robotic hair transplants in Turkey, from expert surgeons to state-of-the-art clinics, and transform your hair loss concerns into a luscious, full head of hair. We will cover everything related to robotic hair transplant in Turkey including process, benefits, post-op recovery and cost. So, let us get started!",
     "title1": "What is Robotic Hair Transplant?",
@@ -23,23 +23,24 @@
     "text11": "<strong>How long does robotic hair transplant last?</strong> Since this method uses its own hair for grafting, thus it can last for a lifetime. However, it also depends on the health of the donor area and post-op care adopted by the patient. <strong>What is the best robotic hair transplant?</strong> ARTAS system is considered the best for its smaller incision, reduced trauma and high quality graft selection. <strong>What is the difference between robotic and FUE?</strong> The major difference between a robotic and FUE hair transplant is that the latter is a completely manual, hands on procedure performed by a skilled surgeon. Whereas, robotic system involve AI and robots to perform the same task. <strong>What is the failure rate of robotic surgery?</strong> Failure rate of robotic surgery is minimal and a study shows only 0.38% surgeries fail. However, surgeon’s supervision is mandatory while performing robotic hair transplant. <strong>How painful is robotic surgery?</strong> Most people would only experience a slight pain while recovering from a robotic hair transplant. Thus, making it an almost painless procedure. <strong>How long does robotic hair surgery take to show results?</strong> It will take around 3–6 months after the robotic hair transplant that most patients will start seeing the results.",
     "sliderImages": [
         {
-            "url": "https://www.customerinterest.com/json_root/img/content_photo/Robotic_DHI.jpg "
+            "url": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/content_photo/Robotic_DHI.jpg"
         },
         {
-            "url": "https://www.customerinterest.com/json_root/img/content_photo/Robotic_DHI_2.jpg"
+            "url": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/content_photo/Robotic_DHI_2.jpg"
         },
         {
-            "url": "https://www.customerinterest.com/json_root/img/content_photo/Robotic_DHI_3.jpg"
+            "url": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/content_photo/Robotic_DHI_3.jpg"
         },
         {
-            "url": "https://www.customerinterest.com/json_root/img/content_photo/Robotic_DHI_4.jpg"
+            "url": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/content_photo/Robotic_DHI_4.jpg"
         }
     ],
     "youtubeVideo": "https://www.youtube.com/embed/aNIZaMdiUaI",
-    "backgroundImage": "https://www.customerinterest.com/json_root/img/content_photo/robotic_siyah_kutu.jpg",
+    "backgroundImage": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/Webp/robotic_siyah_kutu.jpg",
     "headerText": "Hair Transplant AND Treatment",
     "mainText": "Robotic DHI Hair Transplant",
     "buttonText": "Read More",
     "arrowText": "→",
     "navigationScreen": "ContentScreen"
 }
+

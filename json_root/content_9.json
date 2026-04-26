@@ -1,4 +1,4 @@
-{
+﻿{
     "id": 9,
     "text1": "Hair loss is a major and distressing issue for many people around the world. Besides the physical changes, hair loss can lower your self-esteem. Additionally, it can impact overall quality of life.\n\nIn today’s world, you are lucky enough to restore your hairline through a hair transplant, thanks to the advancement in medical science. While there are various techniques available, Sapphire FUE hair transplant stands for its precision, non-invasive nature, and minimal downtime.\n\nIf you are looking to have a Sapphire hair transplant, Turkey is definitely the place to go. The country offers world-class doctors and modern facilities at a cost lower than most first-world nations, for example, USA, UK and Europe.\n\nSo, visit our Sapphire hair clinic, <color>Aslı Tarcan</color>, in Istanbul, Turkey. Here, skilled professionals will help you restore your hairline and confidence at little expense!",
     "title1": "What is Sapphire FUE Hair Transplant?",
@@ -15,20 +15,21 @@
     "text7": "Does Sapphire hair transplant leave scars? Sapphire FUE hair transplant leaves less scarring compared to traditional methods. Remaining small scars will fade as the hair grows over time. How many grafts can I get in one session? Number of grafts you'll receive in a single session depends on the donor area and extent of hair loss. Generally, you can get around <strong>2,000 to 4,000 grafts</strong> in one session of Sapphire hair transplant. Your surgeon will assess your individual needs to determine the right number of grafts required for your case. Will the donor area be damaged after extracting hair from it? Donor area is not damaged if the extraction is done by a skilled surgeon using the right technique. Sapphire FUE ensures minimal trauma, reduced bleeding, and quick healing. Can I get a sapphire hair transplant without shaving my hair? In most cases, shaving is necessary to perform a Sapphire FUE transplant for better precision and graft extraction. Though some clinics offer unshaven procedures, this can make the process more challenging and may not give optimal results. Can Sapphire FUE Hair Transplantation Be Preferred For Women? Yes, women affected by hair thinning or mild to moderate hair loss can definitely prefer Sapphire FUE. The whole method is minimally surgical and results in a natural and dense hairline. Is One Session Enough to Achieve a Perfect Result? One session can give significant hair density but multiple sessions may be needed for full results depending on the extent of hair loss. Patients usually need a second session for fuller coverage or for larger areas. What is sapphire micro FUE hair transplant? In micro Sapphire FUE, micro Sapphire blades are utilized to create cuts on your head for grafts. These are even finer and precise than regular Sapphire blades to create small and precise incisions. What is the difference between micro FUE and sapphire FUE? Micro FUE is a procedure in which a manual or motorized punch is used to extract individual hair follicles, while Sapphire FUE uses a sapphire blade to gain a more accurate incision. Sapphire FUE is better as it offers more precision, less scarring, quicker recovery, and the ability to place the hair grafts in a better position. What is the recovery time for Sapphire FUE? Recovery time for Sapphire FUE is quick, most patients can get back to normal activities within <strong>7 to 10 days</strong>. However, full healing and final results take <strong>9 to 12 months</strong> and hair growth continues over time.",
     "sliderImages": [
         {
-            "url": "https://www.customerinterest.com/json_root/img/content_photo/sapphier_fue.jpg "
+            "url": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/content_photo/sapphier_fue.jpg"
         },
         {
-            "url": "https://www.customerinterest.com/json_root/img/content_photo/sapphier_fue_2.jpg"
+            "url": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/content_photo/sapphier_fue_2.jpg"
         },
         {
-            "url": "https://www.customerinterest.com/json_root/img/content_photo/sapphier_fue_3.jpg"
+            "url": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/json_root/img/content_photo/sapphier_fue_3.jpg"
         }
     ],
-    "fallbackVideoImage": "https://www.customerinterest.com/json_root/img/content_photo/sapphier_fue_fallbackvideoImage.jpg",
-    "backgroundImage": "https://www.customerinterest.com/json_root/img/content_photo/Sapphire_siyah_kutu.jpg",
+    "fallbackVideoImage": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/Webp/sapphier_fue_fallbackvideoImage.jpg",
+    "backgroundImage": "https://cdn.jsdelivr.net/gh/patateskez58-cmd/my-app-data@main/Webp/Sapphire_siyah_kutu.jpg",
     "headerText": "Hair Transplant AND Treatment",
     "mainText": "Sapphire FUE Hair Transplant",
     "buttonText": "Read More",
     "arrowText": "→",
     "navigationScreen": "ContentScreen"
 }
+
